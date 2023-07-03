@@ -9,6 +9,7 @@ namespace Demeter.Application
 {
     public interface IUnitOfWork
     {
+        IMealRepository MealRepository { get; }
         IFoodRepository FoodRepository { get; }
         void Commit();
         void Rollback();

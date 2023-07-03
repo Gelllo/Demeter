@@ -1,0 +1,15 @@
+C:\Users\Gelu\Desktop\Licenta\Demeter\Demeter.Application\bin\Debug\net6.0\Demeter.Application.deps.json
+C:\Users\Gelu\Desktop\Licenta\Demeter\Demeter.Application\bin\Debug\net6.0\Demeter.Application.dll
+C:\Users\Gelu\Desktop\Licenta\Demeter\Demeter.Application\bin\Debug\net6.0\Demeter.Application.pdb
+C:\Users\Gelu\Desktop\Licenta\Demeter\Demeter.Application\bin\Debug\net6.0\Demeter.Domain.dll
+C:\Users\Gelu\Desktop\Licenta\Demeter\Demeter.Application\bin\Debug\net6.0\Demeter.Domain.pdb
+C:\Users\Gelu\Desktop\Licenta\Demeter\Demeter.Application\obj\Debug\net6.0\Demeter.Application.csproj.AssemblyReference.cache
+C:\Users\Gelu\Desktop\Licenta\Demeter\Demeter.Application\obj\Debug\net6.0\Demeter.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gelu\Desktop\Licenta\Demeter\Demeter.Application\obj\Debug\net6.0\Demeter.Application.AssemblyInfoInputs.cache
+C:\Users\Gelu\Desktop\Licenta\Demeter\Demeter.Application\obj\Debug\net6.0\Demeter.Application.AssemblyInfo.cs
+C:\Users\Gelu\Desktop\Licenta\Demeter\Demeter.Application\obj\Debug\net6.0\Demeter.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gelu\Desktop\Licenta\Demeter\Demeter.Application\obj\Debug\net6.0\Demeter.Application.csproj.CopyComplete
+C:\Users\Gelu\Desktop\Licenta\Demeter\Demeter.Application\obj\Debug\net6.0\Demeter.Application.dll
+C:\Users\Gelu\Desktop\Licenta\Demeter\Demeter.Application\obj\Debug\net6.0\refint\Demeter.Application.dll
+C:\Users\Gelu\Desktop\Licenta\Demeter\Demeter.Application\obj\Debug\net6.0\Demeter.Application.pdb
+C:\Users\Gelu\Desktop\Licenta\Demeter\Demeter.Application\obj\Debug\net6.0\ref\Demeter.Application.dll

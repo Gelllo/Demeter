@@ -1,21 +1,27 @@
-﻿using System;
+﻿using Demeter.Domain.FoodDomain;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Demeter.Domain.FoodDomain;
 
 namespace Demeter.Application.Repository
 {
     public interface IFoodRepository
     {
-        IEnumerable<Food> GetFoods();
+        IEnumerable<Food?> GetFoods();
 
         Task<IEnumerable<Food>> GetFoodsAsync();
-        Food GetFoodByID(int foodId);
-        void InsertFood(Food food);
-        void DeleteFood(int foodId);
-        void UpdateFood(Food food);
+
+        Task<Food?> GetFoodByID(int id);
+
+        Task<int> InsertFood(Food Food);
+        public void AddFoodsIfNotExists(IEnumerable<Food> Foods);
+
+        void DeleteFood(int id);
+
+        Task<Food> UpdateFoodAsync(Food record);
+
         void Save();
     }
 }

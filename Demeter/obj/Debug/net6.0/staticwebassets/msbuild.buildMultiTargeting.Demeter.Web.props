@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Demeter.Web.props" />
+</Project>
