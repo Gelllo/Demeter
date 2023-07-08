@@ -16,7 +16,7 @@ namespace Demeter.Application.Repository
 
         Task<IEnumerable<Meal>> GetMealsFromSpecifiedDateUntilNow(string? userID, string? date);
 
-        Task<IEnumerable<RegisteredDaysDto>> GetRegisteredDaysAsync();
+        Task<IEnumerable<RegisteredDaysDto>> GetRegisteredDaysAsync(string userID);
 
         Task<Meal?> GetMealByID(int id);
 

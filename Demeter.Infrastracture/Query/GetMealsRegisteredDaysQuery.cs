@@ -26,7 +26,7 @@ namespace Demeter.Infrastracture.Database.Query.MealsRecordsQueries
 
         public async Task<GetMealsRegisteredDaysResponse> Handle(GetMealsRegisteredDaysRequest query, CancellationToken cancellation)
         {
-            return new GetMealsRegisteredDaysResponse() { RegisteredDays = await _unitOfWork.MealRepository.GetRegisteredDaysAsync() };
+            return new GetMealsRegisteredDaysResponse() { RegisteredDays = await _unitOfWork.MealRepository.GetRegisteredDaysAsync(query.UserID) };
         }
     }
 }
